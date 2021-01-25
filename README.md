@@ -1,4 +1,4 @@
-# projects
+# My Portfolio
 This repository contains some projects I did in [**DataCamp**](https://learn.datacamp.com/). I will make portfolio from this repository.
 
 ## Project 1 : [Who Is Drunk and When in Ames, Iowa?](https://github.com/thomaspanji/projects/blob/main/breath_alcohol_ames.ipynb)
