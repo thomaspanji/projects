@@ -1,5 +1,5 @@
 # My Portfolio
-These are some projects I did in [**DataCamp**](https://learn.datacamp.com/). I will keep adding simple projects to present what I have learnt so far.
+These are some projects I did in [**DataCamp**](https://learn.datacamp.com/), [**Kaggle**](https://www.kaggle.com/), and other sources. I will keep adding simple projects to present what I have learnt so far.
 
 ## Project 1 : [Who Is Drunk and When in Ames, Iowa?](https://github.com/thomaspanji/projects/blob/main/breath_alcohol_ames.ipynb)
 
